@@ -1,0 +1,21 @@
+{
+  "name": "TestFile",
+  "cards": [
+    {
+      "name": "Anton Antonov",
+      "card": 1111222233334444
+
+    },
+    {
+      "name": "Andrey Andreev",
+      "card": 4444333322221111
+
+    },
+    {
+      "name": "Denis Denisov",
+      "card": 3333444455556666
+
+    }
+  ]
+
+}
